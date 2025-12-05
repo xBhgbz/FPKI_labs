@@ -1,0 +1,902 @@
+[
+  {
+    "index": 0,
+    "type": "Airbus A320",
+    "path": "images/320-1.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.020323587581515312,
+        0.9767773747444153,
+        2.930890696006827e-05,
+        0.00044816036825068295,
+        0.0024215723387897015
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, this is the plane that took off from the airport"
+    },
+    "blip_qwen_medium": {
+      "predicted": "civilian",
+      "description": "describe the aircraft in detail :ly, this is the plane that took off from the airport"
+    },
+    "timestamp": "2025-12-05T12:01:05.517290"
+  },
+  {
+    "index": 1,
+    "type": "Airbus A320",
+    "path": "images/320-2.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.009183497168123722,
+        0.990206778049469,
+        3.6789289879379794e-05,
+        7.360359450103715e-05,
+        0.0004993149195797741
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly blue and white on the tarmac"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly blue and white on the tarmac"
+    },
+    "timestamp": "2025-12-05T12:01:18.885802"
+  },
+  {
+    "index": 2,
+    "type": "Airbus A320",
+    "path": "images/320-3.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.027209682390093803,
+        0.9698165059089661,
+        0.00017950452456716448,
+        0.0007012842688709497,
+        0.0020930611062794924
+      ]
+    },
+    "blip": {
+      "predicted": "uncertain",
+      "answers": "private"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying above the clouds"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying above the clouds"
+    },
+    "timestamp": "2025-12-05T12:01:31.714460"
+  },
+  {
+    "index": 3,
+    "type": "Boeing 737",
+    "path": "images/737-1.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.020729217678308487,
+        0.9774986505508423,
+        4.518922287388705e-05,
+        0.00044448618427850306,
+        0.0012824718141928315
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly the colors of the plane is blue, white, and orange"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly the colors of the plane is blue, white, and orange"
+    },
+    "timestamp": "2025-12-05T12:01:46.636611"
+  },
+  {
+    "index": 4,
+    "type": "Boeing 737",
+    "path": "images/737-2.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.05831470340490341,
+        0.9322525262832642,
+        0.0009971079416573048,
+        0.0008118763798847795,
+        0.007623851299285889
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, the plane is flying in the sky"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, the plane is flying in the sky"
+    },
+    "timestamp": "2025-12-05T12:01:59.849939"
+  },
+  {
+    "index": 5,
+    "type": "Boeing 737",
+    "path": "images/737-3.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.03136676922440529,
+        0.9648041129112244,
+        0.0008757308823987842,
+        0.0008570369682274759,
+        0.0020963624119758606
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "civilian",
+      "description": "describe the aircraft in detail :ly, klm is the world ' s largest airline"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, klm is the world ' s largest airline"
+    },
+    "timestamp": "2025-12-05T12:02:12.989607"
+  },
+  {
+    "index": 6,
+    "type": "Boeing 737",
+    "path": "images/737-4.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.026737406849861145,
+        0.9707586765289307,
+        9.67758969636634e-05,
+        0.0010035495506599545,
+        0.0014036346692591906
+      ]
+    },
+    "blip": {
+      "predicted": "uncertain",
+      "answers": "private"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying through the sky"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying through the sky"
+    },
+    "timestamp": "2025-12-05T12:02:24.524507"
+  },
+  {
+    "index": 7,
+    "type": "Boeing 787",
+    "path": "images/787-1.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.03932269662618637,
+        0.9558432102203369,
+        0.0016588708385825157,
+        0.0012318232329562306,
+        0.0019433933775871992
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly the colors of the plane"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly the colors of the plane"
+    },
+    "timestamp": "2025-12-05T12:02:36.370106"
+  },
+  {
+    "index": 8,
+    "type": "Boeing 787",
+    "path": "images/787-2.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.031099416315555573,
+        0.9658317565917969,
+        0.00013215940271038562,
+        0.0009273801115341485,
+        0.0020092767663300037
+      ]
+    },
+    "blip": {
+      "predicted": "uncertain",
+      "answers": "private"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying through the blue sky"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying through the blue sky"
+    },
+    "timestamp": "2025-12-05T12:02:48.463338"
+  },
+  {
+    "index": 9,
+    "type": "ATR 72",
+    "path": "images/atr-1.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.05696861073374748,
+        0.9393150210380554,
+        0.002346227876842022,
+        0.0009513943805359304,
+        0.0004188205348327756
+      ]
+    },
+    "blip": {
+      "predicted": "uncertain",
+      "answers": "private"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying in the sky above the ocean"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying in the sky above the ocean"
+    },
+    "timestamp": "2025-12-05T12:03:01.183254"
+  },
+  {
+    "index": 10,
+    "type": "ATR 72",
+    "path": "images/atr-2.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.0185439083725214,
+        0.9782293438911438,
+        0.00016757671255618334,
+        0.0005010919994674623,
+        0.0025581328663975
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly on the tarmac at the airport"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly on the tarmac at the airport"
+    },
+    "timestamp": "2025-12-05T12:03:14.802319"
+  },
+  {
+    "index": 11,
+    "type": "МС-21",
+    "path": "images/мс-21.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.025622816756367683,
+        0.9722885489463806,
+        0.00019522146612871438,
+        0.00033025111770257354,
+        0.0015632372815161943
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, this is a plane that is flying in the sky"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, this is a plane that is flying in the sky"
+    },
+    "timestamp": "2025-12-05T12:03:27.706814"
+  },
+  {
+    "index": 12,
+    "type": "МС-21",
+    "path": "images/мс-21-1.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.02567910961806774,
+        0.9714999794960022,
+        0.0004152953624725342,
+        0.0012337096268311143,
+        0.0011718709720298648
+      ]
+    },
+    "blip": {
+      "predicted": "uncertain",
+      "answers": "private"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly in flight above the clouds"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly in flight above the clouds"
+    },
+    "timestamp": "2025-12-05T12:03:40.303925"
+  },
+  {
+    "index": 13,
+    "type": "МС-21",
+    "path": "images/мс-21-2.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.04791359230875969,
+        0.9507247805595398,
+        0.00029966948204673827,
+        0.0008021300309337676,
+        0.0002599152794573456
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, it is blue, white, and red"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, it is blue, white, and red"
+    },
+    "timestamp": "2025-12-05T12:03:52.385769"
+  },
+  {
+    "index": 14,
+    "type": "МС-21",
+    "path": "images/мс-21-3.jpg",
+    "true_label": "civilian",
+    "clip": {
+      "predicted": "civilian",
+      "label": "civilian aircraft",
+      "scores": [
+        0.05339055880904198,
+        0.9428821206092834,
+        0.00043659337097778916,
+        0.0023233306128531694,
+        0.0009674264001660049
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, this is a photo of a plane in flight"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, this is a photo of a plane in flight"
+    },
+    "timestamp": "2025-12-05T12:04:05.303162"
+  },
+  {
+    "index": 15,
+    "type": "F-16",
+    "path": "images/f-16.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military fighter jet",
+      "scores": [
+        0.37485089898109436,
+        0.036587897688150406,
+        0.023256726562976837,
+        0.5652931928634644,
+        1.1273411473666783e-05
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly it is taking off from the runway"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly it is taking off from the runway"
+    },
+    "timestamp": "2025-12-05T12:04:18.905357"
+  },
+  {
+    "index": 16,
+    "type": "F-16",
+    "path": "images/f-16-1.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military fighter jet",
+      "scores": [
+        0.4250934422016144,
+        0.07215111702680588,
+        0.02113015577197075,
+        0.48143863677978516,
+        0.00018661865033209324
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly, the fighter jet is in the air"
+    },
+    "blip_qwen_medium": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly, the fighter jet is in the air"
+    },
+    "timestamp": "2025-12-05T12:04:31.399947"
+  },
+  {
+    "index": 17,
+    "type": "F-22",
+    "path": "images/f-22.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military fighter jet",
+      "scores": [
+        0.14120008051395416,
+        0.016473039984703064,
+        0.02149001881480217,
+        0.8208279609680176,
+        8.977190191217232e-06
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly it appears to be a fighter jet"
+    },
+    "blip_qwen_medium": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly it appears to be a fighter jet"
+    },
+    "timestamp": "2025-12-05T12:04:43.937447"
+  },
+  {
+    "index": 18,
+    "type": "F-35",
+    "path": "images/f-35.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military fighter jet",
+      "scores": [
+        0.16746562719345093,
+        0.04646708443760872,
+        0.01505236979573965,
+        0.7709636092185974,
+        5.140359280630946e-05
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly above the clouds"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly above the clouds"
+    },
+    "timestamp": "2025-12-05T12:04:57.512982"
+  },
+  {
+    "index": 19,
+    "type": "ЯК 130",
+    "path": "images/yak-130.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military fighter jet",
+      "scores": [
+        0.33377858996391296,
+        0.0251429732888937,
+        0.07000383734703064,
+        0.5710640549659729,
+        1.0580923117231578e-05
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, the jet is flying in the sky"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, the jet is flying in the sky"
+    },
+    "timestamp": "2025-12-05T12:05:10.719127"
+  },
+  {
+    "index": 20,
+    "type": "B-52",
+    "path": "images/b-52.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military bomber",
+      "scores": [
+        0.09277196228504181,
+        0.014460542239248753,
+        0.876722514629364,
+        0.016009626910090446,
+        3.53346586052794e-05
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly, this is a b - 52 bomber flying over the desert"
+    },
+    "blip_qwen_medium": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly, this is a b - 52 bomber flying over the desert"
+    },
+    "timestamp": "2025-12-05T12:05:25.159323"
+  },
+  {
+    "index": 21,
+    "type": "B-52",
+    "path": "images/b-52-1.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military bomber",
+      "scores": [
+        0.17088358104228973,
+        0.16163478791713715,
+        0.6605994701385498,
+        0.0064578610472381115,
+        0.0004242475260980427
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, this is a plane that is flying high up in the sky"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, this is a plane that is flying high up in the sky"
+    },
+    "timestamp": "2025-12-05T12:05:39.292548"
+  },
+  {
+    "index": 22,
+    "type": "B-2 Spirit",
+    "path": "images/b-2.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military bomber",
+      "scores": [
+        0.029684975743293762,
+        0.003187502734363079,
+        0.954671323299408,
+        0.012447354383766651,
+        8.839405381877441e-06
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly, this is a stealth jet"
+    },
+    "blip_qwen_medium": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly, this is a stealth jet"
+    },
+    "timestamp": "2025-12-05T12:05:51.066643"
+  },
+  {
+    "index": 23,
+    "type": "C-17",
+    "path": "images/c-17.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military aircraft",
+      "scores": [
+        0.65463787317276,
+        0.21127162873744965,
+        0.12996569275856018,
+        0.003950233105570078,
+        0.00017457673675380647
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly against a blue sky"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly against a blue sky"
+    },
+    "timestamp": "2025-12-05T12:06:04.586009"
+  },
+  {
+    "index": 24,
+    "type": "ИЛ 76",
+    "path": "images/il-76.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military bomber",
+      "scores": [
+        0.31810593605041504,
+        0.1745605319738388,
+        0.467703640460968,
+        0.038696546107530594,
+        0.0009333568159490824
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, the tail of the plane is blue and white"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, the tail of the plane is blue and white"
+    },
+    "timestamp": "2025-12-05T12:06:19.535583"
+  },
+  {
+    "index": 25,
+    "type": "Су 57",
+    "path": "images/su-57.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military fighter jet",
+      "scores": [
+        0.2298005074262619,
+        0.027268296107649803,
+        0.09525924921035767,
+        0.6475868225097656,
+        8.504626021021977e-05
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly, this is a fighter jet"
+    },
+    "blip_qwen_medium": {
+      "predicted": "military",
+      "description": "describe the aircraft in detail :ly, this is a fighter jet"
+    },
+    "timestamp": "2025-12-05T12:06:30.592782"
+  },
+  {
+    "index": 26,
+    "type": "A-10 Warthog",
+    "path": "images/A-10-warthog.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military aircraft",
+      "scores": [
+        0.732428789138794,
+        0.08562955260276794,
+        0.09592543542385101,
+        0.08599011600017548,
+        2.6064193662023172e-05
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly in flight over the mountains"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly in flight over the mountains"
+    },
+    "timestamp": "2025-12-05T12:06:44.135019"
+  },
+  {
+    "index": 27,
+    "type": "A-10 Warthog",
+    "path": "images/warhog.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military aircraft",
+      "scores": [
+        0.621555745601654,
+        0.02665557898581028,
+        0.26102161407470703,
+        0.09072309732437134,
+        4.402406557346694e-05
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying over the desert"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly flying over the desert"
+    },
+    "timestamp": "2025-12-05T12:06:56.022547"
+  },
+  {
+    "index": 28,
+    "type": "Миг 35",
+    "path": "images/mig.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military fighter jet",
+      "scores": [
+        0.06292993575334549,
+        0.008992277085781097,
+        0.395185649394989,
+        0.5328393578529358,
+        5.2883893658872694e-05
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly on a white background"
+    },
+    "blip_qwen_medium": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly on a white background"
+    },
+    "timestamp": "2025-12-05T12:07:09.912923"
+  },
+  {
+    "index": 29,
+    "type": "Миг 35",
+    "path": "images/миг.jpg",
+    "true_label": "military",
+    "clip": {
+      "predicted": "military",
+      "label": "military fighter jet",
+      "scores": [
+        0.18740086257457733,
+        0.03747359663248062,
+        0.12686006724834442,
+        0.6481866240501404,
+        7.882905629230663e-05
+      ]
+    },
+    "blip": {
+      "predicted": "military",
+      "answers": "military"
+    },
+    "blip_qwen_small": {
+      "predicted": "uncertain",
+      "description": "describe the aircraft in detail :ly, the colors of the flag are red, white, and blue"
+    },
+    "blip_qwen_medium": {
+      "predicted": "civilian",
+      "description": "describe the aircraft in detail :ly, the colors of the flag are red, white, and blue"
+    },
+    "timestamp": "2025-12-05T12:07:23.226416"
+  }
+]
